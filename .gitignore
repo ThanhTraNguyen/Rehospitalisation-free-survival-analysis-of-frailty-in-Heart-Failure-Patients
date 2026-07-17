@@ -21,3 +21,7 @@ __pycache__/
 # OS generated files
 .DS_Store
 Thumbs.db
+
+
+# Database
+Fried_Frailty_HF_313pts.sav

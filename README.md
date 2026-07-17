@@ -1,6 +1,6 @@
-# Prognostic Value of Frailty in Heart Failure Patients
+# Rehospitalisation-free survival analysis of frailty in Heart Failure Patients
 
-This repository contains the clinical survival analysis and statistical models evaluating the prognostic value of physical frailty (measured by the Fried Frailty phenotype) in patients with Heart Failure (HF).
+This repository contains the rehospitalisation-free survival analysis and statistical models evaluating the prognostic value of physical frailty (measured by the Fried Frailty phenotype) in patients with Heart Failure (HF).
 
 ---
 
@@ -8,7 +8,7 @@ This repository contains the clinical survival analysis and statistical models e
 
 ### 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone git@github.com:ThanhTraNguyen/Rehospitalisation-free-survival-analysis-of-frailty-in-Heart-Failure-Patients.git
 cd Fried_frailty_python
 ```
 
